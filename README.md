@@ -1,7 +1,8 @@
 - 👋 Hi! @igorjoz here. My name is Igor Józefowicz
-- 👀 I’m really interested in IT - especially Algorithms & Web Technologies, so...
-- 🌱 I’m currently studying these areas! For example Laravel framework
-- 📫 You can contact me via e-mail: igorjozefowicz@gmail.com
+- 👀 I love Web Development technologies
+- 💽 I'm also interested in Algorithms & Data Structures
+- 🌱 I’m a student of Gdańsk Univeristy of Technology
+- 📫 You can contact me via e-mail: igor@jozefowicz.pl
 
 <!---
 igorjoz/igorjoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
