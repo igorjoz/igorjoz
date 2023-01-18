@@ -14,7 +14,7 @@
 - ✨ Other interesting repositories might be:
   - [**Matura**](https://github.com/igorjoz/matura) - solutions for 2014 - 2022 matura exam sheets
   - [**Finance and investing**](https://github.com/igorjoz/finance-and-investing/tree/main/src) - PHP app created without any backend frameworks
-  - [**Spy Hunter Game**](https://github.com/igorjoz/spy-hunter-game) - Atari 2600-styled game created with C++ & SFML library
+  - [**Spy Hunter Game**](https://github.com/igorjoz/spy-hunter-game) - Atari 2600-styled game created with C++ & SDL library
   - [**Go Console Game**](https://github.com/igorjoz/go-console-game) - console implementation of Go game in C++
 - 🎯 Currently I'm learning modern C++, React.js and Symfony; I'm also working on my own personal website to share my projects & thoughts on the blog
 
