@@ -3,7 +3,7 @@
 - 👀 I love **Web Development** technologies - I use **PHP & Laravel** for backend and **TypeScript & React.js** for frontend
 - 🔥 I'm also interested in **Algorithms & Data Structures**, I take part in **Competitive Programming** contests sometimes
 - 🌱 I study **Computer Science at Gdańsk Univeristy of Technology**
-- 💼 I work as a **programming teacher** at Giganci Programowania
+- 💼 I work as a **programming teacher** at Giganci Programowania - I teach or have taught Cybersecurity, Operating Systems, Python, C++, SQL
 - 📫 You can contact me via e-mail: **igor@jozefowicz.pl**
 - 🔗 Check out my LinkedIn profile: [**in/igor-jozefowicz**](https://www.linkedin.com/in/igor-jozefowicz/)
 
@@ -17,7 +17,7 @@
   - [**Finance and investing**](https://github.com/igorjoz/finance-and-investing/tree/main/src) - PHP app created without any backend frameworks
   - [**Spy Hunter Game**](https://github.com/igorjoz/spy-hunter-game) - Atari 2600-styled game created with C++ & SDL library
   - [**Go Console Game**](https://github.com/igorjoz/go-console-game) - console implementation of Go game in C++
-- 🎯 Currently I'm learning modern C++, React.js and Symfony
+- 🎯 Currently I'm learning more advanced concepts of OOP, and also React.js and Symfony
 - 💫 I'm also working on my own personal website to share my projects & thoughts on the 📝 blog
 
 <!---
