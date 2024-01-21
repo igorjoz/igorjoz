@@ -27,7 +27,8 @@
   - [**Matura**](https://github.com/igorjoz/matura) - solutions for 2014-2022 Polish matura exam sheets
 - 🧠 Currently I'm learning Computer Architecture & Assembly 1️⃣0️⃣0️⃣1️⃣ & Database Design
 - 💫 I'm also working on my own personal website to share my projects & thoughts on the 📝 blog
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorjoz&label=Profile%20views&color=000000" alt="igorjoz" /> </p>
 <!---
 igorjoz/igorjoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
